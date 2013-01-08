@@ -213,7 +213,7 @@
       <artifactId>geronimo-jta_1.1_spec</artifactId>
       <version>1.0</version>
     </dependency>
-    <!-- If you want to use J2EE 1.4 server(not Tomcat), 
+    <!-- If you want to use J2EE 1.4 server(not Tomcat),
          add geronimo-jta_1.1_spec-1.0-tsr.jar -->
     <dependency>
       <groupId>org.apache.geronimo.specs</groupId>
